@@ -1,8 +1,10 @@
 # Electrostrictive Metamaterial Study Data Files
 
-Simulation data supporting the paper **"Electrostrictive Metamaterial Study: Shaping Fields to Exceed Intrinsic Material Limits"** in *Science Advances*.
+Simulation and validation data supporting **“Electrostrictive Metamaterial Study: Shaping Fields to Exceed Intrinsic Material Limits.”**
 
-This repository is a public scientific data companion. It is useful as evidence of simulation post-processing, reproducible data organization, and publication-supporting research workflows.
+The manuscript and supplementary material are available as a preprint on Zenodo: [doi:10.5281/zenodo.18450271](https://doi.org/10.5281/zenodo.18450271). Journal acceptance or publication is not asserted here.
+
+This repository is a public scientific data companion. It is useful as evidence of simulation post-processing, reproducible data organization, and research-supporting workflows.
 
 ## Repository contents
 
@@ -27,7 +29,7 @@ The repository includes:
 
 ## Software context
 
-The data was organized from COMSOL Multiphysics simulation outputs. See `README.txt` for detailed units, folder-level descriptions, and contact information for the published manuscript.
+The data was organized from COMSOL Multiphysics simulation outputs. See `README.txt` for detailed units, folder-level descriptions, and contact information associated with the manuscript.
 
 ## Portfolio note
 
