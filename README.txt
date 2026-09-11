@@ -3,7 +3,8 @@ ELECTROSTRICTIVE METAMATERIAL DATA REPOSITORY
 ================================================================================
 Paper: "Electrostrictive Metamaterial Study: Shaping Fields to Exceed
 Intrinsic Material Limits"
-Journal: Science Advances
+Preprint: https://doi.org/10.5281/zenodo.18450271
+Status: preprint available on Zenodo; journal publication not asserted.
 ================================================================================
 
 ABSTRACT
@@ -201,7 +202,7 @@ COMSOL Multiphysics 6.2.0.339
 CONTACT
 -------
 For questions about this data repository, please contact the corresponding
-author listed in the published manuscript.
+author listed in the manuscript.
 
 ================================================================================
 Data organized: February 2026
